@@ -4,4 +4,4 @@ El sistema se compone de un formulario (hecho en PHP) para que los empleados de 
 ![carga_solicitud_rrhh](https://github.com/LlanesCarlos/Carga_Solicitud_RRHH/assets/16146374/0b42416e-52a4-4103-848b-51219cdb170b)
 
 Ejemplo de solicitud:
-[original.pdf](https://github.com/LlanesCarlos/Carga_Solicitud_RRHH/files/14435673/original.pdf)
+![original](https://github.com/LlanesCarlos/Carga_Solicitud_RRHH/assets/16146374/52e4a7cd-afba-491b-bd07-85f124f0dfbe)
